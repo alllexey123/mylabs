@@ -3,7 +3,7 @@
 chmod u+w infernape0
 rm -f nidorino7
 rm -f infernape0/mienshao
-chmod u+w lucario5
+chmod -R 700 lucario5
 rm -f lucario5/staraptormarshto*
 rm -f lucario5/staraptornidori*
 rm -rf lucario5

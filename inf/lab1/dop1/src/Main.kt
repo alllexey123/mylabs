@@ -1,6 +1,8 @@
 import java.math.BigDecimal
 import java.math.BigInteger
 
+private val N_TEN = BigInteger.valueOf(-10)
+
 fun main() {
     while (true) {
         print("Enter the number to convert (or 'exit'): ")
